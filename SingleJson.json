@@ -1,0 +1,22 @@
+{
+	"data": [
+		{
+			"courseName": "Appium",
+			"purchaseDate": "2023-01-30",
+			"Amount": 99,
+			"Location": "Asia"
+		},
+		{
+			"courseName": "WebService",
+			"purchaseDate": "2023-01-30",
+			"Amount": 21,
+			"Location": "Asia"
+		},
+		{
+			"courseName": "Jmeter",
+			"purchaseDate": "2023-01-30",
+			"Amount": 76,
+			"Location": "Asia"
+		}
+	]
+}
